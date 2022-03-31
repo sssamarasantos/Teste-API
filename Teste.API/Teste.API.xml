@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Teste.API</name>
+    </assembly>
+    <members>
+        <member name="M:Teste.API.Controllers.ClienteController.List">
+            <summary>
+            List
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Teste.API.Controllers.ClienteController.Post(Teste.API.Models.Cliente)">
+            <summary>
+            Post
+            </summary>
+            <param name="cliente"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
